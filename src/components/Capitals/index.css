@@ -1,0 +1,22 @@
+* {
+  font-family: 'Roboto';
+}
+
+.app-container {
+  background-color: #8fc7f4;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-container {
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.label-text {
+  margin-left: 10px;
+}
